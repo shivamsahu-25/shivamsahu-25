@@ -1,16 +1,26 @@
-## Hi there 👋
+Hi, I'm Shivam Sahu 👋
+AI/ML & Software Developer | Python | Computer Vision | Deep Learning
 
-<!--
-**shivamsahu-25/shivamsahu-25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build intelligent software applications focused on real-world problems, particularly in Computer Vision, AI-powered automation, and backend development.
 
-Here are some ideas to get you started:
+What I work with
+- Languages: Python, Java, JavaScript, SQL
+- AI/ML: PyTorch, TensorFlow, Scikit-learn, YOLO, OpenCV
+- Backend: FastAPI, Django
+- Databases: PostgreSQL, MySQL, MongoDB
+- Tools: Git, GitHub, Docker
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Featured Projects
+1. MatraShakti – AI-powered Women Safety System
+   - Real-time computer vision and threat detection.
+   - Violence, fall and person detection.
+   - Automated alert integration.
+2. Computer Vision Projects
+   - Object detection and tracking.
+   - Video analytics and event detection.
+3. Backend Development
+   - REST APIs, database integration and application development.
+
+Connect with me
+
+GitHub | LinkedIn | Email
